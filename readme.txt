@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge¡£
 bug issue1.
-feature-vulcan1.
+git fix merge.
