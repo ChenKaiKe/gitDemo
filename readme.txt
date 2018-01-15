@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 add merge¡£
 bug issue1.
 Git is a free software ...
+git pull..
 
