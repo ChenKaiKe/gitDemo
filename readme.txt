@@ -9,3 +9,5 @@ Git is a free software ...
 git pull..
 
 this is new content.
+
+Creating a new branch is quick AND simple.
